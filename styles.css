@@ -112,3 +112,59 @@ a{
     color: lightslategray;
     padding-top: 20px;
 }
+
+/*################### DEKSTOP VIEW #################*/
+@media(min-width: 1440px){
+body{
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.wrapper{
+    width: 850px;
+    margin: 35px auto;
+}
+
+#logo{
+    padding-bottom: 10px;
+}
+#soon{
+    font-size: 40px;
+}
+.form{
+    flex-direction: row;
+    width: 800px;
+    /* padding: 50px; */
+    margin: 0 auto;
+    margin-bottom: 40px;
+    padding-left: 100px;
+}
+ 
+    form{
+    display: inline;
+} 
+
+input[type=text]{
+    width: 350px;
+    margin-right: 10px;
+    padding: 20px;
+     padding-left: 40px;
+}
+.submit-button{
+    width: 200px;
+    padding: 20px;
+    font-weight: bold;
+}
+.dashboard-img{
+    width: 720px;
+    margin: 0 auto;
+}
+img {
+    width: 680px;
+    height: 420px;
+    padding-bottom: 50px;
+}
+.copyright{
+    padding-top: 10px;
+}
+}
