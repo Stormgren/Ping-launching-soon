@@ -52,7 +52,7 @@ form{
     border: 1px solid rgb(13, 125, 252);
     color: rgb(13, 125, 252);
 } */
-input[type=text]{
+input[type=email]{
     padding: 15px;
     border-radius: 50px;
     border: 1px solid rgb(13, 125, 252);
@@ -144,7 +144,7 @@ body{
     display: inline;
 } 
 
-input[type=text]{
+input[type=email]{
     width: 350px;
     margin-right: 10px;
     padding: 20px;
