@@ -46,12 +46,6 @@ form{
     padding: 20px 0 50px 0;
 }
 
-/* .input-field{
-    padding: 15px;
-    border-radius: 50px;
-    border: 1px solid rgb(13, 125, 252);
-    color: rgb(13, 125, 252);
-} */
 input[type=email]{
     padding: 15px;
     border-radius: 50px;
@@ -134,7 +128,6 @@ body{
 .form{
     flex-direction: row;
     width: 800px;
-    /* padding: 50px; */
     margin: 0 auto;
     margin-bottom: 40px;
     padding-left: 100px;
